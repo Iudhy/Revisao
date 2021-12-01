@@ -6,3 +6,6 @@ Os commits são as unidades estruturais de um cronograma de projeto
 
 Oque é uma Branch?
 sao ramificaçoes do projeto servem para separar grandes modificaçoes e evitam criar problemas no codigo principal
+
+Oque é merge?
+junçao de duas branch
